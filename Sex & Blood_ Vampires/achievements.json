@@ -1,0 +1,134 @@
+{
+    "Achievements": [
+        {
+            "Id": "AllScenes",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "RogueLightComplete",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "BuyFirstGun",
+            "Unlocked": true,
+            "Description": ""
+        },
+        {
+            "Id": "UseFirstImplant",
+            "Unlocked": true,
+            "Description": ""
+        },
+        {
+            "Id": "StartGame",
+            "Unlocked": true,
+            "Description": ""
+        },
+        {
+            "Id": "EndGame",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "DaisyFirstWin",
+            "Unlocked": true,
+            "Description": ""
+        },
+        {
+            "Id": "DaisyBarWinFight",
+            "Unlocked": true,
+            "Description": ""
+        },
+        {
+            "Id": "ByeDaisy",
+            "Unlocked": true,
+            "Description": ""
+        },
+        {
+            "Id": "FindDealer",
+            "Unlocked": true,
+            "Description": ""
+        },
+        {
+            "Id": "FindLeader",
+            "Unlocked": true,
+            "Description": ""
+        },
+        {
+            "Id": "HomeLo",
+            "Unlocked": true,
+            "Description": ""
+        },
+        {
+            "Id": "MemoryLo",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "RubyLeader",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "PinkyFirstMeet",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "BrainRoof",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "TerraSadist",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "HeadPain",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "Tee",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "Base",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "Samurai",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "WhereKayra",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "MaxSkillCharacter",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "NewInformationKaira",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "UseAllImplants",
+            "Unlocked": false,
+            "Description": ""
+        },
+        {
+            "Id": "BuyAllWeapons",
+            "Unlocked": false,
+            "Description": ""
+        }
+    ]
+}
